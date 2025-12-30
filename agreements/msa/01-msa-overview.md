@@ -1,0 +1,11 @@
+# Master Services Agreement (MSA) – Overview
+
+| Doc Section | Text |
+|------------|------|
+| **Purpose of Agreement** | The MSA is the master agreement that encapsulates core risk and governance terms that apply across all transactions between the parties. |
+| **Business Context** | This MSA is typically used for ongoing SaaS or technology services where multiple transactions may occur over time. It is designed to standardise core legal terms while allowing commercial details to be addressed separately in Order Forms or Statements of Work (SOWs). |
+| **Key Risk Areas** | Key risk areas in an MSA include:<br><br>1. Financial exposure arising from Limitation of Liability and Indemnity clauses.<br>2. Intellectual property ownership and scope of licence.<br>3. Data processing and confidentiality obligations.<br>4. Termination and exit rights.<br>5. Governing law and dispute resolution. |
+| **Risk Classification (CLM Perspective)** | **High**<br><br>Rationale:<br>- High financial exposure driven by limitation of liability and indemnity provisions.<br>- Low flexibility once executed.<br>- High impact due to reuse across multiple transactions and limited renegotiability post-execution. |
+| **Automation Suitability** | - Standard boilerplate clauses may be automated.<br>- High-risk clauses may be automated only when aligned with pre-approved risk thresholds and clause playbooks defined by organisational risk policy. |
+| **Typical Escalation Points** | **Escalate if:**<br><br>1. The agreement is materially one-sided.<br>2. Liability is unlimited.<br>3. The liability cap exceeds approved organisational thresholds.<br>4. New or expanded carve-outs are introduced in indemnity clauses that are not permitted by risk policy.<br>5. There is a change in intellectual property ownership or an unlimited expansion of licence scope.<br>6. There is a change in governing law or dispute resolution mechanism.<br>7. Total agreement value exceeds the approved financial threshold, triggering escalation to senior legal management.<br><br>**Else:**<br>Auto-approve where all terms align with approved templates and organisational risk policy. |
+| **Relationship to Other Documents** | This MSA operates in conjunction with Statements of Work (SOWs), Order Forms, and Data Processing Agreements (where applicable). |
