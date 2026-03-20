@@ -1,6 +1,21 @@
 # Master Services Agreement (MSA) – Routing Logic
 
 ---
+## Thresholds Reference
+
+The following tiers govern routing decisions throughout this document. All values are illustrative and should be configured to organisational risk policy and approved by the General Counsel prior to CLM deployment.
+
+| Threshold Type | Tier 1 — Auto Approve | Tier 2 — Legal and Finance Review | Tier 3 — Senior Escalation |
+|---|---|---|---|
+| Total Contract Value (TCV) | <$1 mil | $1 mil – $5 mil | >$5 mil |
+| Contract Term | <2 years | 2 years – 5 years | >5 years |
+| Limitation of Liability | Fees paid in the preceding 12 months | (a) Fees payable in the last 12 months (b) Total Contract Value (c) Fixed Amount (d) Exclusion of Consequential damages is removed | Unlimited liability |
+| Indemnity | Mutual obligations, no new carve-outs (fraud, wilful misconduct, breach of confidentiality, indemnification), capped indemnities | New carve-outs which are pre-approved, indemnity uncapped | New carve-outs introduced which are not pre-approved |
+| Intellectual Property | Standard IP ownership provisions, licence scope remains limited and non-transferable (where company is the service provider) | Licence scope includes unrestricted sub-licensing | Change to IP ownership (ownership transferred to counterparty) |
+| Data and Confidentiality | No personal data is processed | Personal data is processed, limited to standard categories (contact details, professional information). DPA required before execution | Data processing involves sensitive or special category data (health, biometric, government identifiers, criminal records) |
+| Governing Law and Dispute Resolution | Governing law remains place of execution and ADR remains unchanged | Governing law changed and/or changes made to method of dispute resolution | Governing law changed to a jurisdiction that materially increases enforcement risk or litigation cost, or arbitration is replaced with foreign court litigation |
+
+---
 
 ## 1. Agreement Context
 
